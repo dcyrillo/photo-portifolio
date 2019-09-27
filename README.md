@@ -1,4 +1,4 @@
-# Photo Portfolio Dudu Cyrillo
+# Photo Portfolio DUDU CYRILLO
 
 > A simple project to teach my students in a course on Udemy.
 
